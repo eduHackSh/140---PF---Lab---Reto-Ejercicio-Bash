@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Hecho por Eduardo Piedad :D
+
 #Variable para utilizar el while, tambien sirve para enumerar los archivos
 contador=1
 #Variable que define cuando termina el while, osea la cantidad de veces que se va a ejecutar, por defecto es 25
