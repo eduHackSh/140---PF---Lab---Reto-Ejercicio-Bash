@@ -23,7 +23,6 @@ contar(){
 	if [ $cantidad -ge 25 ]; then
 		let termina=$cantidad+25
 		let contador=$cantidad
-		echo $contador
 	return
 fi
 }
